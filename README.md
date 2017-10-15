@@ -1,6 +1,6 @@
-# Monitary
 
-Introduction
+# Introduction
+
 With the launch and increase in sales of smartphones over the last few years, people are using
 mobile applications to get their work done, which makes their lives easier. Mobile applications
 comprise various different categories such as Entertainment, Sports, Lifestyle, Education, Games,
@@ -8,6 +8,7 @@ Food and Drink, Health and Fitness, Finance, etc. This Expense Tracker applicati
 Finance Category and serves the important purpose of managing finances which is a very important
 part of ones life. The software product went through the design, development, and the testing
 phase as a part of the Software Development Lifecycle.
+
 The applications interface is designed using custom art elements, the functionality is implemented
 using Android SDK, and the phase of testing the product was accomplished successfully.
 The application is not much user intensive but just comprises of having them enter the expense
@@ -16,13 +17,13 @@ entering notes about the expense, adding subcategories to the categories). With 
 the user is able to see the expense details daily, weekly, monthly, and yearly in figures,
 graphs.
 
-Features
+# Features
 • Saves information of expenses
 • Manage categories for expenses
 • Create reminders to payment dates.
 • Shows statistics of saved data.
 
-Intended User
+# Intended User
 This Application is made for any user who wants or wish to keep a better track of their expenses
 in order to keep them in a same place.
 
